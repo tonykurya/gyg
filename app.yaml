@@ -1,4 +1,4 @@
-# App Engine Configuration File
+# App Engine Runtime Configuration
 runtime: php72
 
 # Defaults to "serve index.php" and "serve public/index.php". Can be used to
